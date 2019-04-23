@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "typescript": "tsc",
+    "lint": "eslint index.ts"
+  },
+  "dependencies": {
+    "@types/react": "16.8.14",
+    "@types/react-dom": "16.8.4",
+    "@types/recharts": "1.1.16",
+    "@typescript-eslint/eslint-plugin": "1.7.0",
+    "eslint": "5.16.0",
+    "eslint-plugin-import": "2.17.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "recharts": "1.5.0",
+    "typescript": "3.4.4"
+  }
+}
